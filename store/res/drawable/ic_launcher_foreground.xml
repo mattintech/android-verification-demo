@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <group android:scaleX="1.12" android:scaleY="1.12" android:pivotX="54" android:pivotY="55">
+        <!-- bag handle -->
+        <path android:pathData="M44,47 V41 a10,10 0 0 1 20,0 V47" android:strokeColor="#FFFFFFFF" android:strokeWidth="4" android:strokeLineCap="round" />
+        <!-- bag -->
+        <path android:pathData="M33,45 h42 l-3.2,31.5 a4,4 0 0 1 -4,3.5 h-27.6 a4,4 0 0 1 -4,-3.5 z" android:fillColor="#FFFFFFFF" />
+        <!-- letter A -->
+        <path android:fillType="evenOdd" android:fillColor="#FF0F6FBB" android:pathData="M54,51 l9.5,23 h-5.4 l-1.9,-5 h-8.8 l-1.9,5 h-5.4 z M54,57.6 l-2.9,7.6 h5.8 z" />
+        <!-- "new" badge -->
+        <path android:pathData="M74,44 m-6,0 a6,6 0 1 0 12,0 a6,6 0 1 0 -12,0" android:fillColor="#FFFBBF24" android:strokeColor="#FF0F6FBB" android:strokeWidth="2.4" />
+    </group>
+</vector>
